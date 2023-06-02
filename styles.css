@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.container{
+	background-color:#d3d3d3;
+	padding:10px;
+}
+
+ul{
+	display:flex;
+}
+
+li{
+	display:inline;
+	
+	margin-right:1rem;
+	list-style:none;
+}
